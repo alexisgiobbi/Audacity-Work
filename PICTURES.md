@@ -1,6 +1,6 @@
 ## Pictures
 
-#### Progress Pictures 
+### Progress Pictures 
 
 **Image from progress update**
 ![image](https://user-images.githubusercontent.com/71287088/191090098-2110ffb0-f8c8-454c-a20f-7985a2109647.png)

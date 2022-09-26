@@ -2,7 +2,7 @@
 
 ### 1. Progress Pictures
 
-The following images are of a particular section where knocks at the front and back door are being panned between the left and the right. Originally, I was just working on alternating the knocks at the front and back door by using the left panning on one track and right panning on the other. For my final project, I also incoporated footsteps, static, and the rain. All of the sounds crescendo through the section to create an increasingly chaotic effect
+The following images are of a particular section where knocks at the front and back door are being panned between the left and the right. Originally, I was just working on alternating the knocks. For my final project, I also incoporated footsteps, static, and the rain. All of the sounds crescendo throughout the section to create an increasingly chaotic effect.
 
 **Image from progress update**
 ![image](https://user-images.githubusercontent.com/71287088/191090098-2110ffb0-f8c8-454c-a20f-7985a2109647.png)
@@ -16,7 +16,7 @@ The following images are of a particular section where knocks at the front and b
 
 ![image](https://user-images.githubusercontent.com/71287088/192175832-a01c3b28-d054-4c9a-9668-89c574387666.png)
 
-I recorded the dialogue of the main character and I had a friend do the dialogue for the boy character. The most time-consuming part of the project was cutting together these two audios and making it sound natural. I inserted silence in places where I wanted to pause for effect and also pause *for* effects, so they could have time to play by themselves. Because the main track has both narration and dialogue, I used reverb on the dialogue to try to emulate a conversation in a room, and to differentiate from the narration. I played around with all sorts of distortion and pitch shifting for the boy's dialogue to give it a more creepy feel.
+I recorded myself for the dialogue of the main character and I had a friend do the dialogue for the boy character. The most time-consuming part of the project was cutting together these two audios and making it sound natural. I inserted silence in places where I wanted to pause for effect and also pause *for* effects, so they could have time to play by themselves. Because the main track has both narration and dialogue, I used reverb on the dialogue to try to emulate a conversation in a room, and to differentiate from the narration. I played around with all sorts of distortion and pitch shifting for the boy's dialogue to give it a more creepy feel.
 
 ### 3. Background noises
 

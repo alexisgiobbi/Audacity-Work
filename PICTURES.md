@@ -2,9 +2,12 @@
 
 #### Progress Pictures 
 
+**Image from progress update**
 ![image](https://user-images.githubusercontent.com/71287088/191090098-2110ffb0-f8c8-454c-a20f-7985a2109647.png)
 
-[image](https://user-images.githubusercontent.com/71287088/192175093-4ca55916-6872-4dfa-834f-09b963a814ce.png)
+**Image from FinalForNow Project**
+![image](https://user-images.githubusercontent.com/71287088/192175248-aa2a38fc-9f60-4d52-b3b2-0ac01d81cf68.png)
+
 
 This is of a particular section where knocks at the front and back door are being panned between the left and the right. Originally, I was just working on alternating the knocks at the front and back door by using the left panning on one track and right panning on the other. For my final project, I also incoporated footsteps, static, and the rain. All of the sounds crescendo through the section to create an increasingly chaotic effect.
 #### Picture 2

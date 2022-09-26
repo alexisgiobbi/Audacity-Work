@@ -13,7 +13,7 @@
 
 **Title:** Long static noise
 
-**Site:** Mixkit https://mixkit.co/free-sound-effects/static/
+**Source:** Mixkit https://mixkit.co/free-sound-effects/static/
 
 **License:** Mixkit Sound Effects Free License
 
@@ -21,7 +21,7 @@
 
 **Title:** Banging On Wooden Door A2 Sound Effect
 
-**Site:** Fesliyan Studios https://www.fesliyanstudios.com/royalty-free-sound-effects-download/banging-on-objects-177
+**Source:** Fesliyan Studios https://www.fesliyanstudios.com/royalty-free-sound-effects-download/banging-on-objects-177
 
 **Credit:** Credit to https://www.FesliyanStudios.com for the knocking noises
 
@@ -30,7 +30,7 @@
 
 **Author**: Bandslam33
 
-**Site:** Pixaby https://pixabay.com/sound-effects/search/running/
+**Source:** Pixaby https://pixabay.com/sound-effects/search/running/
 
 **License:** Pixaby License
 
@@ -40,7 +40,7 @@
 
 **Author**: Bane Sound
 
-**Site:** Pixaby https://pixabay.com/sound-effects/search/creaking-door/
+**Source:** Pixaby https://pixabay.com/sound-effects/search/creaking-door/
 
 **License:** Pixaby License
 
@@ -48,7 +48,7 @@
 
 **Title:** Doorbell Sound Effect 6
 
-**Site:** Soundjay https://www.soundjay.com/doorbell-sound-effect.html#google_vignette
+**Source:** Soundjay https://www.soundjay.com/doorbell-sound-effect.html#google_vignette
 
 
 

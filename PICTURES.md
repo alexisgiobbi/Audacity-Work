@@ -12,7 +12,7 @@ The following images are of a particular section where knocks at the front and b
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 2. Dialogue
+### 2. Dialogue
 
 ![image](https://user-images.githubusercontent.com/71287088/192175832-a01c3b28-d054-4c9a-9668-89c574387666.png)
 

@@ -1,5 +1,7 @@
 # Sources
-* *Note: Any files that do not have a author listed do not include one in the original source website. Citations follow a TASL style, with exceptions for websites that have a specific way they want users to cite their sources*
+*Note: Any files that do not have a author listed do not include one in the original source website. Citations follow a TASL style, with exceptions for websites that have a specific way they want users to cite their sources*
+
+-------------------------------------------------------------------------------------------------------
 
 **Clip Title:** Heavy rain and thunder ambience
 
